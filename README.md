@@ -1,4 +1,4 @@
-## AllActivity React Full-Stack Code Challenge
+### AllActivity React Full-Stack Code Challenge
 This coding challenge is an optional, but welcome part of the interview process for a Full-Stack Software Developer position at [AllActivity](https://www.allactivity.com), a remote-first IT startup based in Vienna, Austria.
 
 The coding challenge is meant for candidates to show their problem-solving abilities and demonstrate their development skills. The goal is to give us a good overview of your fullstack skills to build an MVP. There is no need to make it particularly fancy or polished. The reference net development time estimate is four hours.
@@ -8,11 +8,11 @@ Build a small web application to record time logs. In order to enter a log entry
 
 The values must be stored in a SQL database, which should be provided as part of the solution.
 
-On another page the log entries stored in the database must be shown sorted by the start datetime.
-Please use the following technologies:
+On another page the log entries stored in the database must be shown sorted by the start datetime. Please use the following technologies:
 + React
-+ Node
++ Node.js
 + SQL database of your choice
++ GraphQL (Optional, but welcome)
 
 ### Delivery
 The recommended delivery format (including the database) is Docker or another container runtime.
