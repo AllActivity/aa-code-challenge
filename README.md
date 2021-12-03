@@ -8,11 +8,13 @@ Build a small web application to record time logs. In order to enter a log entry
 
 The values must be stored in a SQL database, which should be provided as part of the solution.
 
-On another page the log entries stored in the database must be shown sorted by the start datetime. Please use the following technologies:
+On another page the log entries stored in the database must be shown sorted by the start datetime. 
+
+Please use the following technologies:
 + React
 + Node.js
 + SQL database of your choice
-+ GraphQL (Optional, but welcome)
++ GraphQL (optional, but welcome)
 
 ### Delivery
 The recommended delivery format (including the database) is Docker or another container runtime.
